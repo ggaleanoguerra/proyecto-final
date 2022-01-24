@@ -31,7 +31,7 @@ export default {
     return {
       items: [
         {
-          src: "https://i.ibb.co/HXtnLRJ/man-teacher-in-the-classroom-vector-illustration-design.jpg",
+          src: "https://i.ibb.co/s3Rt32Z/Profe-Aly.jpg ",
         },
         {
           src: "https://i.ibb.co/m5nQKvC/Carlos.jpg",
@@ -43,7 +43,7 @@ export default {
           src: "https://i.ibb.co/3sbh2RT/Jose.jpg",
         },
         {
-          src: "https://i.ibb.co/wRptm36/Gabriel.jpg",
+          src: "https://i.ibb.co/syMnMz6/Gabriel.jpg",
         },
       ],
     };

@@ -10,7 +10,7 @@
       >
         <div class="name">
           <a
-            href="https://fotografia-planos-y-angulos.netlify.app/"
+            href="https://www.unicordoba.edu.co/"
             style="text-decoration: none"
             target="_blank"
           >
